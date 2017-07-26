@@ -4,5 +4,6 @@ public class cat{
 public void say(){
 	System.out.println("ni hao");
 	//AAAAAAAAAAAAAAAAAAAAAAAA
+	//BBBBBBBBBBBBBBBBBBBBBBBB
 
 }
