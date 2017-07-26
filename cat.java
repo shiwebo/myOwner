@@ -3,5 +3,6 @@ public class cat{
 	    System.out.println("create new project cat.java");
 public void say(){
 	System.out.println("ni hao");
+	//AAAAAAAAAAAAAAAAAAAAAAAA
 
 }
